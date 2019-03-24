@@ -1,3 +1,11 @@
+
+todo:
+  keyword: "@makeAnIssue"
+
+
+# ****************************************************************************************************
+
+
 # Configuration for request-info - https://github.com/behaviorbot/request-info
 
 # *Required* Comment to reply with
@@ -37,5 +45,4 @@ firstPRMergeComment: >
 #*****************************************************************************************************
 
 
-todo:
-  keyword: "@makeAnIssue"
+
