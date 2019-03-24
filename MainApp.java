@@ -4,7 +4,7 @@ public class MainApp {
     }
 
     public void something(int a) {
-        
+        a = 10;
     }
     
 
