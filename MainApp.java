@@ -15,7 +15,7 @@ public class MainApp {
         
         
         /**
-        * @todo Take over the world
+        * @todo come on lets do it !!
         * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
         */
         
