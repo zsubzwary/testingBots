@@ -3,6 +3,7 @@ public class MainApp {
         
     }
 
+    // @makeAnIssue
     public void something(int a) {
         a = 10;
     }
