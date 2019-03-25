@@ -3,7 +3,7 @@ public class MainApp {
         
     }
 
-    // @makeAnIssue
+    
     public void something(int a) {
         a = 10;
     }
@@ -13,7 +13,7 @@ public class MainApp {
         // @todo implement this method !! 
         
         System.out.println("Hi");
-        // @makeAnIssue I am sick of this !!
+ 
         
         /**
         * @todo come on lets do it !!
